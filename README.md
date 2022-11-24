@@ -1,6 +1,14 @@
-# Download Termux 
+# Download Termux :
 <a align="center" href="https://bit.ly/3T5Nhu6">
 <img src="https://img.shields.io/badge/Download%20Termux%20Disini-green>"/>
+
+# Download Pydroid :
+<a align="center" href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3 ">
+<img src="https://img.shields.io/badge/Download%20Termux%20Disini-green>"/>
+
+# Perintah Pydroid :
+    $ pip install pycryptodome
+    $ wget https://github.com/H4fidXD/premium/blob/main/run.py?raw=true -O run.py
 
 # Perintah termux :
     $ apt update -y && apt upgrade -y
