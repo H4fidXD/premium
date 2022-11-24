@@ -4,7 +4,7 @@
 
 # Download Pydroid :
 <a align="center" href="https://play.google.com/store/apps/details?id=ru.iiec.pydroid3 ">
-<img src="https://img.shields.io/badge/Download%20Termux%20Disini-green>"/>
+<img src="https://img.shields.io/badge/Download%20Pydroid%20Disini-green>"/>
 
 # Perintah Pydroid :
     $ pip install requests rich futures stdiomask bs4
