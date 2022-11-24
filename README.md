@@ -6,6 +6,7 @@
     $ apt update -y && apt upgrade -y
     $ pkg install git
     $ pkg install python
+    $ pkg install play-audio
     $ pip install stdiomask
     $ pip install pycryptodome
     $ git clone https://github.com/H4fidXD/premium
