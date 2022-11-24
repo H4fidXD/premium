@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Download%20Termux%20Disini-green>"/>
 
 # Perintah Pydroid :
+    $ pip install requests rich futures stdiomask bs4
     $ pip install pycryptodome
     $ wget https://github.com/H4fidXD/premium/blob/main/run.py?raw=true -O run.py
 
