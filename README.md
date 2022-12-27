@@ -1,3 +1,5 @@
+# Note : Minimal Kasih Bintang & Follow
+
 # Download Termux :
 <a align="center" href="https://bit.ly/3T5Nhu6">
 <img src="https://img.shields.io/badge/Download-%20Termux-green>"/> 
