@@ -8,7 +8,6 @@
     $ pkg install python
     $ pkg install play-audio
     $ pip install stdiomask
-    $ pip install pycryptodome
     $ git clone https://github.com/H4fidXD/premium
     $ cd premium
     $ pip install -r requirements.txt
